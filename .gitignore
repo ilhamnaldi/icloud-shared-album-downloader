@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded albums and personal links
+downloads/
+albums.txt
+.album-folders.json
+*.part
+*.jpg
+*.jpeg
+*.heic
+*.mp4
+*.mov
+
+# macOS
+.DS_Store
